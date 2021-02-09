@@ -1,9 +1,11 @@
 #=
                        ------ MAIN INTERFACE -----
-This code is a companion to the paper Surrogate Monte Carlo (SMC). This is the main
+This code is a companion to the paper Surrogate Monte Carlo (SMC) -arxiv 2021. This is the main
 code used to generate SMC data. However the default setting here are selected
 for the code to run withing minutes (<10 min).
-ACS, 10/2020
+Authors: Andrei Da Silva & A.Christian Silva
+e-mail: csilva@idatafactory.com
+version on 10/2020
 =#
 
 using Random
